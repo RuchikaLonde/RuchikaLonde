@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning NodeJs
 - 💞️ I love traveling & discover new things
-📫 feel free to reach me at ruchikalonde1718@gmail.com
+- 📫 feel free to reach me at ruchikalonde1718@gmail.com
 
 
 <!---
